@@ -46,7 +46,7 @@ $data1=mysqli_query($conn,$sql);
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-12 name_head" >
-				<a href="index.php"><h2 class="float-left some">Joy2362</h2></a>
+				<a href="index.php"><h2 class="float-left some">Mukta555</h2></a>
 				<p class="float-right ">Keep your file safe</p>
 			</div>
 		</div>
@@ -151,7 +151,7 @@ $data1=mysqli_query($conn,$sql);
 		<div class="row">
 			<div class="col-sm-4"></div>
 			<div class="col-sm-4">
-				<p class="text-primary">Copyright &copy;2019 All right reserved by joy2362 </p>
+				<p class="text-primary">Copyright &copy;2019 All right reserved by You! </p>
 			</div>
 			<div class="col-sm-4"></div>
 		</div>
